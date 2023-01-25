@@ -1,0 +1,5 @@
+package game.orders;
+
+public enum OrderType {
+	NULL, GO, HELP, HELPLOOK, HELPGO, LOOK, TAKE, DROP, USE, DISCUSS, EXAMINE, INTERACT, GIVE, INVENTORY, SAVE, LOAD, QUIT
+}
